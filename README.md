@@ -1,69 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Kashif%20Hussain&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=58&descSize=18" />
+<img src="./header.svg" width="100%" alt="Kashif Hussain - Web Developer" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=667EEA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kashif+Hussain;Passionate+Web+Developer+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;BS+Software+Engineering+%7C+3rd+Year;I+turn+ideas+into+clean+code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=C471F5&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Kashif+Hussain;Web+Developer+from+Pakistan;I+build+with+JavaScript%2C+Node.js%2C+Python+%26+C%23;BS+Software+Engineering+%7C+3rd+Year;Let's+build+something+awesome+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="mailto:kashif.com.pk123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Kashifhussain241"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:kashif.com.pk123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Kashifhussain241"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Kashifhussain241&label=Profile%20Views&color=764ba2&style=flat-square" alt="profile views" />
 
-</div>
+<img src="./divider.svg" width="100%" alt="" />
 
----
+<h2>👨‍💻 About Me</h2>
 
-## 👨‍💻 About Me
+<img src="./about.svg" width="100%" alt="About Kashif" />
 
-- 🎓 BS Software Engineering student (3rd year)
-- 🔭 Currently working on: **web development projects**
-- 🌱 Currently learning: **React and backend development**
-- 🎨 I also design with **Illustrator** and **Photoshop**
-- 💬 Ask me about: **HTML, CSS, JavaScript, Node.js, Python**
-- 📫 Reach me at: **kashif.com.pk123@gmail.com**
+<img src="./divider.svg" width="100%" alt="" />
 
----
+<h2>🛠️ Tech Stack</h2>
 
-## 🛠️ Languages & Tools
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,cs,git,github,vscode,ai,ps&theme=dark&perline=11" alt="Tech stack" />
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,vscode,ai,ps&theme=dark" />
-</div>
+<img src="./divider.svg" width="100%" alt="" />
 
----
+<h2>📊 GitHub Stats</h2>
 
-## 📊 GitHub Stats
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kashifhussain241&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashifhussain241&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" alt="Top languages" />
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kashifhussain241&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashifhussain241&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kashifhussain241&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
+<img src="https://streak-stats.demolab.com?user=Kashifhussain241&theme=tokyonight&hide_border=true&border_radius=20" alt="Streak stats" />
 
----
+<img src="./divider.svg" width="100%" alt="" />
 
-## 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Project One](https://github.com/Kashifhussain241/REPO-NAME) | Short description of what it does | HTML, CSS, JS |
-| [Project Two](https://github.com/Kashifhussain241/REPO-NAME) | Short description of what it does | Node.js |
-| [Project Three](https://github.com/Kashifhussain241/REPO-NAME) | Short description of what it does | Python |
+<!-- Replace REPO-1 and REPO-2 with your real repository names -->
+<a href="https://github.com/Kashifhussain241/REPO-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashifhussain241&repo=REPO-1&theme=tokyonight&hide_border=true&border_radius=20" alt="Project 1" />
+</a>
+<a href="https://github.com/Kashifhussain241/REPO-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashifhussain241&repo=REPO-2&theme=tokyonight&hide_border=true&border_radius=20" alt="Project 2" />
+</a>
 
----
+<img src="./divider.svg" width="100%" alt="" />
 
-<div align="center">
+<h2>🐍 Contribution Snake</h2>
 
-### ✨ Thanks for stopping by! Let's build something great together.
+<img src="https://raw.githubusercontent.com/Kashifhussain241/Kashifhussain241/output/github-snake-dark.svg" width="100%" alt="Contribution snake animation" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="100%" alt="footer" />
 
 </div>
