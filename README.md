@@ -32,12 +32,12 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kashifhussain241&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashifhussain241&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kashifhussain241&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=c471f5&icon_color=fa71cd&text_color=d6d6ff&border_color=c471f5&border_radius=20" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashifhussain241&layout=compact&bg_color=0D1117&title_color=c471f5&text_color=d6d6ff&border_color=c471f5&border_radius=20" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Kashifhussain241&theme=tokyonight&hide_border=true&border_radius=20" alt="Streak stats" />
+<img src="https://streak-stats.demolab.com?user=Kashifhussain241&background=0D1117&border=c471f5&stroke=4b4b7a&ring=c471f5&fire=fa71cd&currStreakNum=ffffff&sideNums=8ec5fc&currStreakLabel=c471f5&sideLabels=d6d6ff&dates=9ca3af&border_radius=20" alt="Streak stats" />
 
 <img src="./divider.svg" width="100%" alt="" />
 
@@ -45,10 +45,10 @@
 
 <!-- Replace REPO-1 and REPO-2 with your real repository names -->
 <a href="https://github.com/Kashifhussain241/REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashifhussain241&repo=REPO-1&theme=tokyonight&hide_border=true&border_radius=20" alt="Project 1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashifhussain241&repo=REPO-1&bg_color=0D1117&title_color=c471f5&icon_color=fa71cd&text_color=d6d6ff&border_color=c471f5&border_radius=20" alt="Project 1" />
 </a>
 <a href="https://github.com/Kashifhussain241/REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashifhussain241&repo=REPO-2&theme=tokyonight&hide_border=true&border_radius=20" alt="Project 2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kashifhussain241&repo=REPO-2&bg_color=0D1117&title_color=c471f5&icon_color=fa71cd&text_color=d6d6ff&border_color=c471f5&border_radius=20" alt="Project 2" />
 </a>
 
 <img src="./divider.svg" width="100%" alt="" />
