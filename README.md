@@ -41,7 +41,7 @@
 
 <img src="./divider.svg" width="100%" alt="" />
 
-<h2>🚀 Featured Projects</h2>
+<h2>🚀 Featured Project's</h2>
 
 <!-- Replace REPO-1 and REPO-2 with your real repository names -->
 <a href="https://github.com/Kashifhussain241/REPO-1">
