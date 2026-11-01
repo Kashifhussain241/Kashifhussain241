@@ -64,7 +64,7 @@
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.4s" fill="freeze"/>
       <text x="115" y="178"><tspan fill="#7fdbca">role</tspan><tspan fill="#d6deeb">: </tspan><tspan fill="#c3e88d">"Web Developer"</tspan><tspan fill="#d6deeb">,</tspan></text></g>
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.9s" dur="0.4s" fill="freeze"/>
-      <text x="115" y="206"><tspan fill="#7fdbca">study</tspan><tspan fill="#d6deeb">: </tspan><tspan fill="#c3e88d">"BS Software Engineering"</tspan><tspan fill="#d6deeb">,</tspan></text></g>
+      <text x="115" y="206"><tspan fill="#7fdbca">study</tspan><tspan fill="#d6deeb">: </tspan><tspan fill="#c3e88d">"Software Engineering"</tspan><tspan fill="#d6deeb">,</tspan></text></g>
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.4s" fill="freeze"/>
       <text x="115" y="234"><tspan fill="#7fdbca">stack</tspan><tspan fill="#d6deeb">: [</tspan><tspan fill="#c3e88d">"HTML"</tspan><tspan fill="#d6deeb">, </tspan><tspan fill="#c3e88d">"CSS"</tspan><tspan fill="#d6deeb">, </tspan><tspan fill="#c3e88d">"JS"</tspan><tspan fill="#d6deeb">, </tspan><tspan fill="#c3e88d">"Node.js"</tspan><tspan fill="#d6deeb">, </tspan><tspan fill="#c3e88d">"Python"</tspan><tspan fill="#d6deeb">, </tspan><tspan fill="#c3e88d">"C#"</tspan><tspan fill="#d6deeb">],</tspan></text></g>
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.9s" dur="0.4s" fill="freeze"/>
