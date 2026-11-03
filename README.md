@@ -24,13 +24,13 @@
 
 <img src="./divider.svg" width="100%" alt="" />
 
-<h2>🛠️ Tech Stack</h2>
+<h2> Tech Stack</h2>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,cs,git,github,vscode,ai,ps&theme=dark&perline=11" alt="Tech stack" />
 
 <img src="./divider.svg" width="100%" alt="" />
 
-<h2>📊 GitHub Stats</h2>
+<h2> GitHub Stats</h2>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kashifhussain241&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=c471f5&icon_color=fa71cd&text_color=d6d6ff&border_color=c471f5&border_radius=20" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashifhussain241&layout=compact&bg_color=0D1117&title_color=c471f5&text_color=d6d6ff&border_color=c471f5&border_radius=20" alt="Top languages" />
@@ -41,7 +41,7 @@
 
 <img src="./divider.svg" width="100%" alt="" />
 
-<h2>🚀 Featured Project's</h2>
+<h2>Featured Project's</h2>
 
 <!-- Replace REPO-1 and REPO-2 with your real repository names -->
 <a href="https://github.com/Kashifhussain241/REPO-1">
