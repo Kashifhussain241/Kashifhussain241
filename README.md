@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kashifhussain241&label=Profile%20Views&color=764ba2&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Kashifhussain241&label=Profile%20Views&color=764ba2&style=flat-square" alt="profile-views" />
 
 <img src="./divider.svg" width="100%" alt="" />
 
@@ -53,7 +53,7 @@
 
 <img src="./divider.svg" width="100%" alt="" />
 
-<h2>🐍 Contribution Snake</h2>
+<h2>Contribution Snake</h2>
 
 <img src="https://raw.githubusercontent.com/Kashifhussain241/Kashifhussain241/output/github-snake-dark.svg" width="100%" alt="Contribution snake animation" />
 
