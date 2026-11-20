@@ -62,7 +62,7 @@
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.4s" fill="freeze"/>
       <text x="115" y="150"><tspan fill="#7fdbca">name</tspan><tspan fill="#d6deeb">: </tspan><tspan fill="#c3e88d">"Kashif Hussain"</tspan><tspan fill="#d6deeb">,</tspan></text></g>
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.4s" fill="freeze"/>
-      <text x="115" y="178"><tspan fill="#7fdbca">role</tspan><tspan fill="#d6deeb">: </tspan><tspan fill="#c3e88d">"Web Developer"</tspan><tspan fill="#d6deeb">,</tspan></text></g>
+      <text x="115" y="178"><tspan fill="#7fdbca">role</tspan><tspan fill="#d6deeb">: </tspan><tspan fill="#c3e88d">"Software Developer"</tspan><tspan fill="#d6deeb">,</tspan></text></g>
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.9s" dur="0.4s" fill="freeze"/>
       <text x="115" y="206"><tspan fill="#7fdbca">study</tspan><tspan fill="#d6deeb">: </tspan><tspan fill="#c3e88d">"Software Engineering"</tspan><tspan fill="#d6deeb">,</tspan></text></g>
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.4s" fill="freeze"/>
