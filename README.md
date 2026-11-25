@@ -1,19 +1,22 @@
 <h1 align="center">Kashif Hussain</h1>
  
 <p align="center">
-  <b>Full-Stack Developer &nbsp;|&nbsp; Software Engineering Graduate</b><br>
-  BS Software Engineering, Iqra University, Islamabad, Pakistan
+  <b>Full-Stack Developer &nbsp;|&nbsp; Software Engineering </b><br>
+
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/kashif-hussain-8b131a299/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/Kashifhussain241">GitHub</a> &nbsp;·&nbsp;
   <a href="#connect">Contact</a>
 </p>
+<p align="center">
+  <img src="assets/banner.svg" alt="Kashif Hussain, Full-Stack Developer. Code-style card listing role, education and technology stack" width="100%">
+</p>
 ---
  
 ## About
  
-I'm a Software Engineering graduate who builds modern web applications, backend systems, REST APIs, and database-driven software. I enjoy turning real requirements into clean, maintainable, practical solutions, from the React interface to the ASP.NET Core API and the SQL Server database behind it.
+I'm a Software Engineering  who builds modern web applications, backend systems, REST APIs, and database-driven software. I enjoy turning real requirements into clean, maintainable, practical solutions, from the React interface to the ASP.NET Core API and the SQL Server database behind it.
  
 ---
  
@@ -145,3 +148,4 @@ Advanced React.js &nbsp;·&nbsp; ASP.NET Core Web API &nbsp;·&nbsp; Authenticat
   Open to junior and entry-level full-stack roles, including remote opportunities.<br>
   I'm always glad to talk about building reliable, well-designed software.
 </p>
+ 
