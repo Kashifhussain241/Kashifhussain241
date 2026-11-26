@@ -1,27 +1,27 @@
-<h1 align="center">Kashif Hussain</h1>
- 
 <p align="center">
-  <b>Full-Stack Developer &nbsp;|&nbsp; Software Engineering </b><br>
-
+  <img src="assets/header.svg" alt="Kashif Hussain, Full-Stack Developer and Software Engineering Graduate" width="100%">
 </p>
+
+<p align="center">
+  BS Software Engineering, Iqra University, Islamabad, Pakistan
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/kashif-hussain-8b131a299/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/Kashifhussain241">GitHub</a> &nbsp;·&nbsp;
   <a href="#connect">Contact</a>
 </p>
-<p align="center">
-  <img src="assets/banner.svg" alt="Kashif Hussain, Full-Stack Developer. Code-style card listing role, education and technology stack" width="100%">
-</p>
+
 ---
- 
+
 ## About
- 
-I'm a Software Engineering  who builds modern web applications, backend systems, REST APIs, and database-driven software. I enjoy turning real requirements into clean, maintainable, practical solutions, from the React interface to the ASP.NET Core API and the SQL Server database behind it.
- 
+
+I'm a Software Engineering graduate who builds modern web applications, backend systems, REST APIs, and database-driven software. I enjoy turning real requirements into clean, maintainable, practical solutions, from the React interface to the ASP.NET Core API and the SQL Server database behind it.
+
 ---
- 
+
 ## Featured Projects
- 
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -71,10 +71,11 @@ I'm a Software Engineering  who builds modern web applications, backend systems,
     <td width="50%"></td>
   </tr>
 </table>
+
 ---
- 
+
 ## Technology Stack
- 
+
 <table>
   <tr>
     <td width="110"><b>Frontend</b></td>
@@ -113,10 +114,11 @@ I'm a Software Engineering  who builds modern web applications, backend systems,
     </td>
   </tr>
 </table>
+
 ---
- 
+
 ## GitHub Activity
- 
+
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kashifhussain241&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0F172A&text_color=64748B&icon_color=2563EB&hide=issues" alt="GitHub contribution statistics for Kashifhussain241">
   &nbsp;
@@ -125,27 +127,27 @@ I'm a Software Engineering  who builds modern web applications, backend systems,
 <p align="center">
   <img height="140" src="https://streak-stats.demolab.com?user=Kashifhussain241&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=0F172A&sideLabels=64748B&currStreakNum=0F172A&sideNums=0F172A&dates=64748B" alt="GitHub contribution streak">
 </p>
+
 ---
- 
+
 ## Currently Learning
- 
+
 Advanced React.js &nbsp;·&nbsp; ASP.NET Core Web API &nbsp;·&nbsp; Authentication and Authorization &nbsp;·&nbsp; Entity Framework Core &nbsp;·&nbsp; SQL Server &nbsp;·&nbsp; Backend Architecture &nbsp;·&nbsp; Clean Code and Software Design
- 
+
 ---
- 
+
 <h2 id="connect">Connect With Me</h2>
- 
+
 | | |
 |---|---|
 | **GitHub** | [github.com/Kashifhussain241](https://github.com/Kashifhussain241) |
 | **LinkedIn** | [linkedin.com/in/kashif-hussain-8b131a299](https://www.linkedin.com/in/kashif-hussain-8b131a299/) |
 | **Email** | `your-professional-email@example.com` (placeholder) |
 | **Portfolio** | `https://your-portfolio-url.com` (placeholder) |
- 
+
 ---
- 
+
 <p align="center">
   Open to junior and entry-level full-stack roles, including remote opportunities.<br>
   I'm always glad to talk about building reliable, well-designed software.
 </p>
- 
