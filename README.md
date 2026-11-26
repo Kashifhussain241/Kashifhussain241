@@ -13,7 +13,7 @@
  
 ## About
  
-I'm a Software Engineering graduate who builds modern web applications, backend systems, REST APIs, and database-driven software. I enjoy turning real requirements into clean, maintainable, practical solutions, from the React interface to the ASP.NET Core API and the SQL Server database behind it.
+I'm a Software Engineer who builds modern web applications, backend systems, REST APIs, and database-driven software. I enjoy turning real requirements into clean, maintainable, practical solutions, from the React interface to the ASP.NET Core API and the SQL Server database behind it.
  
 ---
  
@@ -23,7 +23,7 @@ I'm a Software Engineering graduate who builds modern web applications, backend 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Kashifhussain241/YOUR-TJ-SPORTS-REPO">
-        <img src="assets/screenshots/tj-sports-complex.png" alt="TJ Sports Complex application screenshot" width="100%">
+        <img src="assets/screenshots/tj-sports-complex .png" alt="TJ Sports Complex application screenshot" width="100%">
       </a>
       <h3>TJ Sports Complex</h3>
       <p>Sports facility management with tournament and membership features.</p>
